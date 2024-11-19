@@ -1,0 +1,101 @@
+{
+    '_id': '10051164', 
+    'listing_url': 'https: //www.airbnb.com/rooms/10051164', 
+    'name': "Catete's Colonial Big Hause Room B", 
+    'summary': "Old floor, intirely reformed, destined to receive people in a very harmonious and welcoming place. Located at Catete's neighborhood, with a very easy access to the metro station, a lot of bus lines, next to a excellent trade and things to do around.", 
+    'space': 'Este quarto está preparado para acomodar confortavelmente quatro pessoas, podendo ainda ser acrescentado um sofá-cama para receber mais um hóspede.', 
+    'description': "Old floor, intirely reformed, destined to receive people in a very harmonious and welcoming place. Located at Catete's neighborhood, with a very easy access to the metro station, a lot of bus lines, next to a excellent trade and things to do around.", 
+    'neighborhood_overview': 'A Grande Morada situa-se no Bairro do Catete, histórico bairro ladeado pelo morro de Santa Tereza, pelo bairro da Lapa, pelo Parque do Flamengo e pelo Largo do Machado. Esta localização privilegiada oferece, em seu entorno, além das belas paisagens, acesso à Estação de Metro, a várias linhas de ônibus e a excelente e diversificado comércio, lazer e diversão. É um bairro pequeno e seguro, esteticamente bonito, habitado por pessoas cordiais que se conhecem e convivem cotidianamente, o que pode ser atestado por nós, que aqui moramos há mais de trinta anos.', 
+    'notes': 'A casa possui um potencial incrível para receber grupos. Os quartos são amplos e comunicáveis.', 
+    'transit': 'Perto do metrô e várias linhas de ônibus. Acesso a pé para o centro da cidade e para o bairro da Lapa e Santa Tereza.', 
+    'access': 'O hóspedes poderão acessar espaços compartilhados como sala de TV e estar, terraço, área para refeições.', 
+    'interaction': 'Sou geógrafa, gosto de arte e cultura. Moro neste endereço (porém em outro espaço, que não o casarão) com meu companheiro Carlos Henrique, que é músico, farmacêutico e acupunturista, meus filhos Pedro, estudante do ensino médio e Estevão estudante de antropologia . Somos todos os três responsáveis pelas hospedagens e manutenção do Casarão. Sejam bem vindos! Estaremos com total disponibilidade para ajudá-los.', 
+    'house_rules': '', 
+    'property_type': 'House', 
+    'room_type': 'Private room', 
+    'bed_type': 'Real Bed', 
+    'minimum_nights': '2', 
+    'maximum_nights': '1125', 
+    'cancellation_policy': 'strict_14_with_grace_period', 
+    'last_scraped': datetime.datetime(2019, 2, 11, 5, 0), 
+    'calendar_last_scraped': datetime.datetime(2019, 2, 11, 5, 0), 
+    'first_review': datetime.datetime(2016, 2, 10, 5, 0), 
+    'last_review': datetime.datetime(2016, 2, 10, 5, 0),  
+    'accommodates': 8, 
+    'bedrooms': 1, 
+    'beds': 8, 
+    'number_of_reviews': 1, 
+    'bathrooms': Decimal128('4.0'), 
+    'amenities': 
+        ['TV', 'Cable TV', 'Internet', 'Wifi', 'Air conditioning', 'Kitchen', 'Smoking allowed', 'Family/kid friendly', 'First aid kit', 'Fire extinguisher', 'Essentials'
+    ], 
+    'price': Decimal128('250.00'), 
+    'security_deposit': Decimal128('0.00'), 
+    'cleaning_fee': Decimal128('0.00'), 
+    'extra_people': Decimal128('40.00'),
+    'guests_included': Decimal128('4'), 
+    'images': 
+        {'thumbnail_url': '', 
+        'medium_url': '', 
+        'picture_url': 'https://a0.muscache.com/im/pictures/b2119f25-42e1-4770-8072-20de92e65893.jpg?aki_policy=large', 
+        'xl_picture_url': ''
+    }, 
+    'host': 
+        {'host_id': '51326285', 
+        'host_url': 'https://www.airbnb.com/users/show/51326285', 
+        'host_name': 'Beatriz',
+        'host_location': 'Rio de Janeiro, State of Rio de Janeiro, Brazil', 
+        'host_about': '', 
+        'host_response_time': 'within an hour', 
+        'host_thumbnail_url': 'https://a0.muscache.com/im/pictures/eb09c9cb-bc70-412f-80d9-47ed3ab104f4.jpg?aki_policy=profile_small', 
+        'host_picture_url': 'https://a0.muscache.com/im/pictures/eb09c9cb-bc70-412f-80d9-47ed3ab104f4.jpg?aki_policy=profile_x_medium', 
+        'host_neighbourhood': 'Catete', 
+        'host_response_rate': 80, 
+        'host_is_superhost': False, 
+        'host_has_profile_pic': True, 
+        'host_identity_verified': True, 
+        'host_listings_count': 5, 
+        'host_total_listings_count': 5, 
+        'host_verifications': ['email', 'phone', 'facebook', 'reviews', 'jumio', 'government_id']
+    },
+    'address': 
+        {'street': 'Rio de Janeiro, Rio de Janeiro, Brazil', 
+        'suburb': 'Catete', 
+        'government_area': 'Catete', 
+        'market': 'Rio De Janeiro', 
+        'country': 'Brazil', 
+        'country_code': 'BR', 
+        'location': 
+            {'type': 'Point', 
+            'coordinates': [-43.18015675229857, -22.92638234778768], 
+            'is_location_exact': True
+        }
+    },
+  'availability': 
+        {'availability_30': 10, 
+        'availability_60': 10, 
+        'availability_90': 21, 
+        'availability_365': 296
+    }, 
+    'review_scores': 
+        {
+        'review_scores_accuracy': 10, 
+        'review_scores_cleanliness': 6, 
+        'review_scores_checkin': 8, 
+        'review_scores_communication': 8, 
+        'review_scores_location': 8, 
+        'review_scores_value': 8, 
+        'review_scores_rating': 80
+    }, 
+    'reviews': 
+        [
+            {
+            '_id': '61992538', 
+            'date': datetime.datetime(2016, 2, 10, 5, 0), 
+            'listing_id': '10051164', 
+            'reviewer_id': '25802720', 
+            'reviewer_name': 'Izabella', 
+            'comments': 'A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos.'
+        }
+    ]
+}
